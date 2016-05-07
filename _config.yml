@@ -23,7 +23,7 @@ keywords: "bdekker, programmer, student, it, business, blog, web"
 
 # Site settings
 url: http://bdekker.eu
-baseurl: "/bdekker"
+baseurl: ""
 # baseurl: ""
 
 # Author settings
