@@ -1,0 +1,46 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: expanded # compressed # expanded
+
+# permalink and highlighter
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+# SEO settings
+title: bdekker
+description: "Student and Programmer"
+keywords: "bdekker, programmer, student, it, business, blog, web"
+
+# Site settings
+url: http://bdekker.eu
+baseurl: "/bdekker"
+# baseurl: ""
+
+# Author settings
+author:
+  name      : Bram Dekker
+  job       : Software Engineer
+  bio       : "Enthusiastic about programming, business and good coffee."
+  thumb     : /bdekker/assets/images/bram.jpg
+  email     : bram.dekker.nl@gmail.com
+  url       : http://bdekker.eu
+  github    : http://github.com/bdekk
+  twitter   : http://twitter.com/
+  facebook  : http://www.facebook.com/bram.dekker.33
+  linkedin  : http://nl.linkedin.com/in/bdekkernl
+
+# google_analytics: UA-52446115-1
+repo: http://github.com/bdekk
+
+# comments
+disqus_shortname: "bramdekker"

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header intro" style="background-image: url('{{ "/assets/images/" | prepend: site.baseurl }}{{page.image}}'); background-repeat: no-repeat; background-size: cover;">
+    <div class="intro-in">
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <h2 class="intro-subtitle">{{ page.subtitle }}</h2>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="post-content container">
+    {{ content }}
+  </div>
+
+</article>
