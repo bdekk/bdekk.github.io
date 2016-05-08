@@ -7,7 +7,24 @@
 @media(min-width: 600px) {
   .about-thumb {
     display: inline-block;
-    margin: 0 2em 2em 2em;
+    margin: 0 2em 2em 0;
     float: left;
   }
+}
+
+
+@media(max-width: 600px) {
+  .about-thumb {
+    margin: 0 auto 1em;
+
+    display: block;
+  }
+}
+
+.dot {
+  border-radius: 50%;
+  border: 2px solid #eee;
+  background-color: #eee;
+  max-height: 9em;
+  box-shadow: 0 0 0 3px #fff, 0 0 0 4px #999, 0 2px 5px 4px rgba(0,0,0,.2);
 }

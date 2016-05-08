@@ -1,8 +1,15 @@
 # bdekker
-Personal website
+Website based on the [dotX](http://nandomoreira.me/dotX) jekyll theme
+
+### Installation
+
+Install Ruby
+gem install bundler
+bundle install
+
+### Run
+bundle exec jekyll serve
 
 ### Copyright and license
 
-It is under [the MIT license](/LICENSE).
-
-Based on [nandomoreira.me](http://nandomoreira.me)
+Released under [MIT license](/LICENSE).
