@@ -4,9 +4,10 @@ title: Contact
 subtitle: Get in touch!
 permalink: /contact/
 ---
-<form action="MAILTO:bram.dekker.nl@gmail.com" method="post">
-  <input type="text" name="replyto" placeholder="Your Email address" />
-  <input type="text" name="subject" placeholder="Subject"/>
-  <textarea name="body" rows="10" placeholder="Message"></textarea>
+<form action="https://getsimpleform.com/messages?form_api_token=99a2f23f506e7d90b80e787da24a56f4" method="post">
+  <input type="text" required name="name" placeholder="Name" />
+  <input type="email" required name="replyto" placeholder="Email address" />
+  <input type="text" required name="subject" placeholder="Subject"/>
+  <textarea name="body" required rows="10" placeholder="Message"></textarea>
   <button type="submit">Send</button>
 </form>
