@@ -30,6 +30,12 @@ Education
 Experience
 ----------
 
+**Graduation Internship:**; Qualogy (Rijswijk, The Netherlands)
+
+* Research on location and interaction tracking based on IoT sensor data.
+
+[landscape website](http://www.qualogy.nl)
+
 **Part-time Software Developer:**; Landscape (Leiden, The Netherlands)
 
 * Development of software applications using AngularJS, NodeJS and
@@ -67,10 +73,10 @@ Technical Experience
 --------------------
 
 Programming Languages  
-    *Scala, Java, Java EE, C++, PHP, Haskell, Prolog, Javascript, SQL, HTML, CSS*  
+    *Scala, Java, Java EE, Python, PHP, Javascript, C++, Haskell, Prolog, SQL, HTML, CSS*  
 
 Frameworks  
-    *Hadoop, Spark, Sencha Touch, Wicket, AngularJS, Compass (Sass), JQuery, OpenGL*  
+    *Hadoop, Spark, Express, NodeJS, React, Angular, Android, Ionic, Sencha Touch, Wicket, Compass (Sass), JQuery*  
 
 Modeling Languages  
     *UML, Archimate*  
