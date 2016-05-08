@@ -30,13 +30,13 @@ Education
 Experience
 ----------
 
-**Graduation Internship:**; Qualogy (Rijswijk, The Netherlands)
+**Internship**; Qualogy (Rijswijk, The Netherlands)
 
 * Research on location and interaction tracking based on IoT sensor data.
 
 [qualogy website](http://www.qualogy.nl)
 
-**Part-time Software Developer:**; Landscape (Leiden, The Netherlands)
+**Part-time Software Developer**; Landscape (Leiden, The Netherlands)
 
 * Development of software applications using AngularJS, NodeJS and
 MongoDB
@@ -52,7 +52,7 @@ MongoDB
 
 [brein website](http://www.brein.nl)
 
-**Graduation Internship**; Topicus Zorg (Deventer, The Netherlands) / J4Care Healthcare Innovation (Vienna, Austria)
+**Internship**; Topicus Zorg (Deventer, The Netherlands) / J4Care Healthcare Innovation (Vienna, Austria)
 
 * Research on optimizing a web application for iPad usage.
 * Research and implementation of an extension of a medical application
