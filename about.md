@@ -34,7 +34,7 @@ Experience
 
 * Research on location and interaction tracking based on IoT sensor data.
 
-[landscape website](http://www.qualogy.nl)
+[qualogy website](http://www.qualogy.nl)
 
 **Part-time Software Developer:**; Landscape (Leiden, The Netherlands)
 
