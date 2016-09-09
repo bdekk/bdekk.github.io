@@ -30,6 +30,12 @@ Education
 Experience
 ----------
 
+**Software Engineer**; Qualogy (Rijswijk, The Netherlands)
+
+* Working with Java and Polymer.
+
+[qualogy website](http://www.qualogy.nl)
+
 **Internship**; Qualogy (Rijswijk, The Netherlands)
 
 * Research on location and interaction tracking based on IoT sensor data.
