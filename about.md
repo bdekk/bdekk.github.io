@@ -19,7 +19,7 @@ Resume
 Education
 ---------
 
-2014-2016 (expected)
+2014-2016
 :   **MSc, ICT in Business**; Leiden University (Leiden, The Netherlands)
 
 2009-2013
@@ -27,12 +27,26 @@ Education
 
     *Minor: Advanced Algorithms (Premaster computer science Twente University)*
 
+Certifications
+---------
+2016
+:    **CSM / CSD** Certified Scrum Master and Certified Scrum Developer
+
 Experience
 ----------
+**Consultant & Product Owner**; Qualogy (Rijswijk, The Netherlands)
+
+* Product Owner for multiple teams with multiple clients
+⋅⋅* Requirements analysis
+⋅⋅* Planning and scope
+⋅⋅* Refining stories with teams
+
+[qualogy website](http://www.qualogy.nl)
 
 **Software Engineer**; Qualogy (Rijswijk, The Netherlands)
 
-* Working with Java and Polymer.
+* Software Development using Java and Polymer.
+* Scrum Master responsibilities
 
 [qualogy website](http://www.qualogy.nl)
 
