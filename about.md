@@ -37,9 +37,9 @@ Experience
 **Consultant & Product Owner**; Qualogy (Rijswijk, The Netherlands)
 
 * Product Owner for multiple teams with multiple clients
-⋅⋅* Requirements analysis
-⋅⋅* Planning and scope
-⋅⋅* Refining stories with teams
+  * Requirements analysis
+  * Planning and scope
+  * Refining stories with teams
 
 [qualogy website](http://www.qualogy.nl)
 
