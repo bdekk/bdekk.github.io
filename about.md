@@ -9,7 +9,7 @@ permalink: /about/
 Introduction
 ============
 ![Author]({{site.author.thumb}}){: .about-thumb .dot}
-Hello and welcome. My name is Bram Dekker. I am 24 years old and a Dutch student and Programmer living in the city of Leiden, The Netherlands. I study IT in Business at the University of Leiden and in my spare time I like to do some programming for different platforms and in different programming languages. Currently I am working on social apps and IoT related software.
+Hello and welcome. My name is Bram Dekker. I am a 26 years old full-stack software engineer living in the city of Leiden, The Netherlands. In my spare time I like to do some programming for different platforms and in different programming languages. Currently I am working on social apps and IoT related software.
 
 If you want to talk about IT related subjects or just have a nice general chat, feel free to contact me and perhaps we'll meet up for a coffee or beer.
 
@@ -36,7 +36,7 @@ Experience
 ----------
 **Consultant & Product Owner**; Qualogy (Rijswijk, The Netherlands)
 
-* Product Owner for multiple teams with multiple clients
+* Product Owner for multiple teams with multiple clients (cargo and office sector)
   * Requirements analysis
   * Planning and scope
   * Refining stories with teams
